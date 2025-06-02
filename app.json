@@ -7,9 +7,9 @@
 
     "env": {
         "SESSION_ID": {
-            "description": "Manu-MD&3UMSlQyZ#m1K1tHUim9lTCqrOzXL2EWE-wXPKirRTeo9jZbult5Y",
+            "description": "Manu-MD&6ItwVDBC#bNY_SwYQFzI4FVX-iLXsGVpNIosQQl7lBmziPYbC3hY",
             "required": true,
-            "value": "Manu-MD&3UMSlQyZ#m1K1tHUim9lTCqrOzXL2EWE-wXPKirRTeo9jZbult5Y"
+            "value": "Manu-MD&6ItwVDBC#bNY_SwYQFzI4FVX-iLXsGVpNIosQQl7lBmziPYbC3hY"
         }
     },
     "buildpacks": [
